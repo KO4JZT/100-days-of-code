@@ -21,3 +21,11 @@ Started April 14, 2021
 **Thoughts:** I'm enjoying the ability to push through my whole list of project ideas, and can't wait to write baout some of them. 
 
 **Link to work:** https://github.com/KO4JZT/blog/commit/fac869f6af03913634a07007ce3d5e4d3922b767
+
+### Day 3: April 16, 2021
+
+**Today's Progress**: Added CRUD to contacts app and learned about how Ruby does partials.
+
+**Thoughts:** I like how quick Ruby is but I'm interested to try out other languages.
+
+**Link to work:** https://github.com/KO4JZT/heimdall/commit/df51714ec82c47edd36e611b3b256ce3bb55db2b
