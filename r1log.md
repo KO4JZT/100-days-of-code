@@ -29,3 +29,11 @@ Started April 14, 2021
 **Thoughts:** I like how quick Ruby is but I'm interested to try out other languages.
 
 **Link to work:** https://github.com/KO4JZT/heimdall/commit/df51714ec82c47edd36e611b3b256ce3bb55db2b
+
+### Day 4: April 18, 2012
+
+**Today's Progress**: Added user authentication and styling to Heimdall.
+
+**Thoughts:** Ruby's system for code by page is a little confusing but I'm happy that I'm able to pick things up as I find them.
+
+**Link to work:** Not yet published. 
